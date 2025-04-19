@@ -5,7 +5,7 @@ Passionate about building scalable backend systems and extracting insights from 
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**  
 - Python (Django, Flask, FastAPI)  
@@ -21,7 +21,7 @@ Passionate about building scalable backend systems and extracting insights from 
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
 - **[Product Search Engine](https://github.com/Zeh237/Product-Search-Engine)**  
   Flask | Elasticsearch | MySQL  
@@ -41,7 +41,7 @@ Passionate about building scalable backend systems and extracting insights from 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeh%20Brien-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeh-brien-14ab8b228)
 
