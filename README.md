@@ -49,6 +49,8 @@ Passionate about building scalable backend systems and extracting insights from 
 
 ## 📈 GitHub Stats
 
-![Zeh237's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeh237&show_icons=true&theme=default)
+![Zeh237's Stats](https://github-readme-stats.vercel.app/api?username=Zeh237&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeh237&layout=compact&theme=default)
+![Zeh237's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeh237&theme=vue-dark&hide_border=true)
+
+![Zeh237's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeh237&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
