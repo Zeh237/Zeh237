@@ -13,7 +13,7 @@ Passionate about building scalable backend systems and extracting insights from 
 - SQL, HTML, JavaScript, TailwindCSS  
 
 **Databases & Tools:**  
-- MySQL, Neo4j, Elasticsearch  
+- MySQL, Postgres, Neo4j, Elasticsearch  
 - Git, Docker, Postman  
 
 **Currently Exploring:**  
