@@ -35,10 +35,6 @@ Passionate about building scalable backend systems and extracting insights from 
   Flask | Pandas | HTML | JS | Tailwind  
   > Interactive dashboard visualizing retail data to uncover sales trends and regional performance.
 
-- **[Quarkus WebSocket Chat App](https://github.com/Zeh237/Quarkus-Websockets-Chat-Backend)**  
-  Quarkus | WebSockets  
-  > Real-time chat application demonstrating event-driven communication using WebSockets.
-
 ---
 
 ## Connect With Me
